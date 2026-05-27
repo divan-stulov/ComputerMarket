@@ -1,0 +1,6 @@
+@ComputerMarketBack_HostAddress = http://localhost:5170
+
+GET {{ComputerMarketBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
